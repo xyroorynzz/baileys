@@ -1,22 +1,17 @@
 {
-    "name": "@xyroorynzz/baileys",
-    "version": "2.0.3",
-    "description": "WhatsApp API Modification By X",
+    "name": "alice-baileys",
+    "version": "2.0.8",
+    "description": "WhatsApp API Modification By Alice",
     "keywords": [
-        "whatsapp",
         "baileys",
-        "whatsapp-web",
-        "whatsapp-chat",
-        "whatsapp-group",
-        "botwa",
-        "z4phdev"
+        "whatsapp",
+        "xyroorynzz",
+        "alice-baileys",
+        "whatsapp-web"
     ],
     "homepage": "https://github.com/xyroorynzz/baileys",
-    "profile": {
-        "baseurl": "https://kyuurzy.dev"
-    },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "XyrooRynzz",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -79,7 +74,7 @@
         "ts-jest": "^27.0.3",
         "ts-node": "^10.8.1",
         "typedoc": "^0.24.7",
-        "typescript": "^4.6.4", 
+        "typescript": "^4.6.4",
         "json": "^11.0.0"
     },
     "peerDependencies": {
